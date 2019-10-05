@@ -22,3 +22,4 @@ Example: <b>* Ganesh Sanap, Student - Sangli, India </b>
 # Amazing Contributors :heart:
 
 * Ganesh Sanap, Student - Sangli, India
+* Deepjyoti Roy, Student - Jabalpur, India
