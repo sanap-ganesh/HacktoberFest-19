@@ -23,6 +23,8 @@ Example: <b> Ganesh Sanap, Student - Sangli, India </b>
 
 * Ganesh Sanap, Student - Sangli, India
 
+* Savethan Sritharan, Student - London, United Kingdom
+
 * Biswajit Patra, Student - Bhubaneswar, India
 
 * Deepjyoti Roy, Student - Jabalpur, India
