@@ -13,7 +13,7 @@ It's hard. It's always hard the first time you do something. Especially when you
 
 * Name, Profession - Location
 
-Example: <b>* Ganesh Sanap, Student - Sangli, India </b>
+Example: <b> Ganesh Sanap, Student - Sangli, India </b>
 
 3. Commit the change to your fork, using a clear and descriptive commit message.
 
@@ -26,6 +26,8 @@ Example: <b>* Ganesh Sanap, Student - Sangli, India </b>
 * Biswajit Patra, Student - Bhubaneswar, India
 
 * Deepjyoti Roy, Student - Jabalpur, India
+
+* Ritik Poshattiwar, Student - Sangli, India
 
 * Aadish Deshpande, Student - Sangli, India
 
