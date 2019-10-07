@@ -38,3 +38,4 @@ Example: <b> Ganesh Sanap, Student - Sangli, India </b>
 * Yordan Zhelev, Front-End Developer - Stara Zagora, Bulgaria
 * Dede Saepulloh, Student - Ciamis, Indonesia
 
+* Amol Saini, Student - Ghaziabad, India
