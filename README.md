@@ -33,6 +33,8 @@ Example: <b> Ganesh Sanap, Student - Sangli, India </b>
 
 * Aadish Deshpande, Student - Sangli, India
 
+* Harshraj Dhote, Student - Sangli, India
+
 * Sanket Pathak, Student - Sangli, India
 *Abhishek Kotkar ,Student- Sangli, India
 * Yordan Zhelev, Front-End Developer - Stara Zagora, Bulgaria
