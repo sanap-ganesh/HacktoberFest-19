@@ -43,5 +43,5 @@ Example: <b> Ganesh Sanap, Student - Sangli, India </b>
 
 * Akhil Patil, Student - Sangli, India
 
- *Abhishek Kotkar ,Student- Sangli, India
+* Abhishek Kotkar ,Student- Sangli, India
 
