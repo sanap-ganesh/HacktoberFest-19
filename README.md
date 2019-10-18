@@ -45,3 +45,5 @@ Example: <b> Ganesh Sanap, Student - Sangli, India </b>
 
 * Abhishek Kotkar ,Student- Sangli, India
 
+* zuixin, Front-End Developer- Shenzhen, China
+
